@@ -1,5 +1,7 @@
 # How accurately can my Youtube watch history be used to characterize me?
 
+![](/YouTube.jpg)
+
 This project aims to analyze what my youtube watch history looks like. This probably shouldn't be public information but what the heck, people like to learn about others and their habits.
 
 In this I look at a few things:
