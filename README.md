@@ -15,6 +15,6 @@ Incorporate my likes history and comapre wordclouds and do other analysis on the
 
 # Instructions to run
 1. Make sure you have Jupyter installed so you can open this notebook locally
-2. Run "pip install -r requirements.txt"
+2. Run `pip install -r requirements.txt`
 3. Download your data from Google via [Google Takeout](https://takeout.google.com/). Make sure you request youtube data as JSON and NOT html.
 4. Place "watch-history.json" in directory of notebook and run the cells.
