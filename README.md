@@ -7,7 +7,10 @@ In this I look at a few things:
 2. How old is my watch history (for some reason google only has history from 7/2017 onwards)
 3. How many videos I watch (on average) per day
 4. My most watched videos (and their views, no wonder all top 20 are songs)
-5. Wordcloud of what the title of these videos are (It's pretty evident I love Chelsea FC)![My watch history wordcloud](/wordcloud.png)
+5. Wordcloud of what the title of these videos are (It's pretty evident I love Chelsea FC)
+
+![My watch history wordcloud](/wordcloud.png)
+
 6. How many Unique channels i have watched and which are the ones I watch the most
 
 ## TO-DO
